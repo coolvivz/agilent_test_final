@@ -1,0 +1,14 @@
+{
+  "SBOOK": {
+    "target": {
+      "object": "SBOOK",
+      "schema": "SFLIGHT"
+    }
+  },
+  "SAPLANE": {
+    "target": {
+      "object": "SAPLANE",
+      "schema": "SFLIGHT"
+    }
+  }
+}
